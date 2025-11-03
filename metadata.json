@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Digital Zikirmatik",
+  "description": "A stylish digital dhikr counter to track your recitations. It features a main counter that cycles to 33 and a target counter that tracks the number of cycles completed.",
+  "requestFramePermissions": []
+}
