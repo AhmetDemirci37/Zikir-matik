@@ -22,5 +22,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1vkG6PJOy3C0deSMNaIz8gX
    ## Be sure to visit us.
 
 Adres : https://www.instagram.com/eylencebilgi
-Adres : https://www.youtube.com/@Eylencebilgi
+Adres : https://www.youtube.com/@Eylencebilgi-g
 Adres : https://www.tiktok.com/@eylencebilgi
